@@ -1,4 +1,4 @@
-# Gray-Area-Immersive-Summer-2015
+# Gray Area Immersive Summer 2015
 
 ###Week 1 - Processing
 
