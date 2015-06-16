@@ -1,3 +1,5 @@
+//class for creepy drawers that follow your face
+
 class Creep {
 
   color c;
@@ -14,14 +16,14 @@ class Creep {
   }
 
   void display() {
-
+    //draws creep on screen
     noStroke();
     fill(c);
     ellipse(xpos, ypos, 20, 20);
   }
 
   void follow() {
-
+    //tells creep to follow faces
     xpos = xpos + ( mappedx - xpos)/followspeed;
     ypos = ypos + ( mappedy - ypos)/followspeed;
   }
