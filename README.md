@@ -7,7 +7,7 @@
 
 A paintbrush tool to create trippy paintings with balls that creep on your mouse position - demonstrates objects and arrays
 
-YT("http://www.youtube.com/watch?v=ArHQjQyIS70", print = TRUE)
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ####Facepaint
 
