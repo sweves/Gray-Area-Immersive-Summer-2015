@@ -11,7 +11,7 @@ ArrayList creepers;
 
 void setup() {
 
-  size(1200, 700);
+  size(1200, 900);
 
   background(255);
 
@@ -45,8 +45,7 @@ void keyPressed() {
       creepers.remove(i);
 
       background(255);
-
-      creepers.add(new Creep(color(random(0, 255), random(0, 255), random(0, 255)), mouseX, mouseY, random(0.1, 50.0), random(0.1, 50.0)));
     }
+    creepers.add(new Creep(color(random(0, 255), random(0, 255), random(0, 255)), mouseX, mouseY, random(0.1, 50.0), random(0.1, 50.0)));
   }
 }
