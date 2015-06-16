@@ -7,8 +7,10 @@
 
 A paintbrush tool to create trippy paintings with balls that creep on your mouse position - demonstrates objects and arrays
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/qJdlBHaAUMI/0.jpg)](https://www.youtube.com/watch?v=qJdlBHaAUMI "Everything Is AWESOME")
 
 ####Facepaint
 
 A game that uses openCV to track your face and draw a line on the screen. Comes with 3 different connect the dots to play with.
+
+
+[![Face Paint](http://img.youtube.com/vi/qJdlBHaAUMI/0.jpg)](https://www.youtube.com/watch?v=qJdlBHaAUMI "Face Paint")
