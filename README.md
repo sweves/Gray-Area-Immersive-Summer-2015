@@ -7,6 +7,8 @@
 
 A paintbrush tool to create trippy paintings with balls that creep on your mouse position - demonstrates objects and arrays
 
+[![Creepy Painter](http://img.youtube.com/vi/WaPzD0cCwro/0.jpg)](https://www.youtube.com/watch?v=WaPzD0cCwro "Face Paint")
+
 
 ####Facepaint
 
